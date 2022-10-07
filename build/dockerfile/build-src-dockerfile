@@ -1,3 +1,4 @@
+#è solo amd64
 FROM quay.io/marrober/maven-build:latest
 
 USER 1001 
